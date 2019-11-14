@@ -15,6 +15,7 @@ export class BrandBoard extends Component {
 
 
     static renderBrandBoardTable(data) {
+        // data groupping
         var grouppedData = _.groupBy(data, (item) => {
             var initialCharCode = item.brandName.toLowerCase().charCodeAt(0);
             if (initialCharCode >= 97 && initialCharCode <= 122) {

@@ -13,4 +13,10 @@ Front-End Library like React, VUE etc could be used.
 ## Implementation and Instruction    
 The project is implemented using .Net Core 3.0, C#, React  
 Package CSVHelper is used to read csv file.  
-Package lodash is used to data groupping operation.  
+Package lodash is used to data groupping operation.
+
+Open Solution and run default project Mofadeng.TechnicalTest.BrandBoard  
+The app will route to Brand Board automatically 
+
+## Testing  
+Mofadeng.TechnicalTest.Test is Unit Test Project using xUnit.
