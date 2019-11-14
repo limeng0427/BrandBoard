@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using Abp.UI;
 using CsvHelper;
 using CsvHelper.Configuration.Attributes;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+
 
 namespace Mofadeng.TechnicalTest.BrandBoard.Controllers
 {
@@ -27,9 +29,16 @@ namespace Mofadeng.TechnicalTest.BrandBoard.Controllers
         [AllowAnonymous]
         public IEnumerable<BrandBoardItem> Get()
         {
-            using (var reader = new StreamReader("./Brands.csv"))
+            string path = "./Brands.csv";
+            if (!System.IO.File.Exists(path))
+            {
+                throw new UserFriendlyException("CouldNotFindTheMappingFile");
+            }
+            using (var reader = new StreamReader(path))
             using (var csv = new CsvReader(reader))
             {
+                if(_logger != null)
+                    _logger.LogInformation($"{DateTime.Now} BrandBoardController.Get()");
                 csv.Configuration.HasHeaderRecord = false;
                 return csv.GetRecords<BrandBoardItem>()
                     .ToArray()

@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "Abp": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "CsvHelper": {
               "target": "Package",
               "version": "[12.2.1, )"

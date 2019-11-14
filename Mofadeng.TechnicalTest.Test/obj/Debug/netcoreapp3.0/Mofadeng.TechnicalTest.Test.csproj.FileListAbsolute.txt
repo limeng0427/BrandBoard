@@ -195,3 +195,16 @@ C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcorea
 C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\Mofadeng.TechnicalTest.BrandBoard.pdb
 C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\obj\Debug\netcoreapp3.0\Mofadeng.TechnicalTest.Test.dll
 C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\obj\Debug\netcoreapp3.0\Mofadeng.TechnicalTest.Test.pdb
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\Abp.dll
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\Castle.Facilities.Logging.dll
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\Castle.Windsor.dll
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\JetBrains.Annotations.dll
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\Nito.AsyncEx.Context.dll
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\Nito.AsyncEx.Coordination.dll
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\Nito.AsyncEx.Tasks.dll
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\Nito.Collections.Deque.dll
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\Nito.Disposables.dll
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\System.Linq.Dynamic.Core.dll
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\TimeZoneConverter.dll
