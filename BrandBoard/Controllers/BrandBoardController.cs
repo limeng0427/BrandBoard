@@ -12,6 +12,7 @@ namespace Mofadeng.TechnicalTest.BrandBoard.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class BrandBoardController : ControllerBase
     {
 
@@ -23,6 +24,7 @@ namespace Mofadeng.TechnicalTest.BrandBoard.Controllers
         }
 
         [HttpGet]
+        [AllowAnonymous]
         public IEnumerable<BrandBoardItem> Get()
         {
             using (var reader = new StreamReader("./Brands.csv"))
