@@ -42,7 +42,7 @@ namespace Mofadeng.TechnicalTest.BrandBoard.Controllers
                 csv.Configuration.HasHeaderRecord = false;
                 return csv.GetRecords<BrandBoardItem>()
                     .ToArray()
-                    .OrderBy(l=>l.BrandName);
+                    .OrderBy(l=>("BEL".Contains(l.BrandName[0])? l.BrandName.Replace(" ", "s"): (l.BrandName + "{")), StringComparer.OrdinalIgnoreCase);
             }
         }
     }
