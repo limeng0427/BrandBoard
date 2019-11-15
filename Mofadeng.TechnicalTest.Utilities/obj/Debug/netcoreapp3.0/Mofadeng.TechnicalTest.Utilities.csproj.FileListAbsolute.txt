@@ -1,0 +1,7 @@
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Utilities\bin\Debug\netcoreapp3.0\Mofadeng.TechnicalTest.Utilities.deps.json
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Utilities\bin\Debug\netcoreapp3.0\Mofadeng.TechnicalTest.Utilities.dll
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Utilities\obj\Debug\netcoreapp3.0\Mofadeng.TechnicalTest.Utilities.AssemblyInfoInputs.cache
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Utilities\obj\Debug\netcoreapp3.0\Mofadeng.TechnicalTest.Utilities.AssemblyInfo.cs
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Utilities\bin\Debug\netcoreapp3.0\Mofadeng.TechnicalTest.Utilities.pdb
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Utilities\obj\Debug\netcoreapp3.0\Mofadeng.TechnicalTest.Utilities.dll
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Utilities\obj\Debug\netcoreapp3.0\Mofadeng.TechnicalTest.Utilities.pdb

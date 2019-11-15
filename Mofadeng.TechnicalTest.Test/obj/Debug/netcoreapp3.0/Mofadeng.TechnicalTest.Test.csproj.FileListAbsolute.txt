@@ -208,3 +208,5 @@ C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcorea
 C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\Nito.Disposables.dll
 C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\System.Linq.Dynamic.Core.dll
 C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\TimeZoneConverter.dll
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\Mofadeng.TechnicalTest.Utilities.dll
+C:\Users\Liam\Projects\BrandBoard\Mofadeng.TechnicalTest.Test\bin\Debug\netcoreapp3.0\Mofadeng.TechnicalTest.Utilities.pdb

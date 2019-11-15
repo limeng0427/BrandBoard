@@ -3516,7 +3516,8 @@
           "Microsoft.AspNetCore.SpaServices.Extensions": "3.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.0.0",
           "Microsoft.Extensions.Logging.Debug": "3.0.0",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.0.0"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.0.0",
+          "Mofadeng.TechnicalTest.Utilities": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Mofadeng.TechnicalTest.BrandBoard.dll": {}
@@ -3527,6 +3528,19 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Mofadeng.TechnicalTest.Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "CsvHelper": "12.2.1"
+        },
+        "compile": {
+          "bin/placeholder/Mofadeng.TechnicalTest.Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mofadeng.TechnicalTest.Utilities.dll": {}
+        }
       }
     }
   },
@@ -10670,6 +10684,11 @@
       "type": "project",
       "path": "../BrandBoard/Mofadeng.TechnicalTest.BrandBoard.csproj",
       "msbuildProject": "../BrandBoard/Mofadeng.TechnicalTest.BrandBoard.csproj"
+    },
+    "Mofadeng.TechnicalTest.Utilities/1.0.0": {
+      "type": "project",
+      "path": "../Mofadeng.TechnicalTest.Utilities/Mofadeng.TechnicalTest.Utilities.csproj",
+      "msbuildProject": "../Mofadeng.TechnicalTest.Utilities/Mofadeng.TechnicalTest.Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {

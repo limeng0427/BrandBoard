@@ -2389,10 +2389,19 @@
           "Microsoft.AspNetCore.SpaServices.Extensions": "3.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.0.0",
           "Microsoft.Extensions.Logging.Debug": "3.0.0",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.0.0"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.0.0",
+          "Mofadeng.TechnicalTest.Utilities": "1.0.0"
         },
         "runtime": {
           "Mofadeng.TechnicalTest.BrandBoard.dll": {}
+        }
+      },
+      "Mofadeng.TechnicalTest.Utilities/1.0.0": {
+        "dependencies": {
+          "CsvHelper": "12.2.1"
+        },
+        "runtime": {
+          "Mofadeng.TechnicalTest.Utilities.dll": {}
         }
       }
     }
@@ -3839,6 +3848,11 @@
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
     },
     "Mofadeng.TechnicalTest.BrandBoard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mofadeng.TechnicalTest.Utilities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
